@@ -1,12 +1,25 @@
 .site-name {
-    
+    text-align: center;
+
+    font-weight: bolder;
+}
+.nav-menu {
+  margin-top: 8px;
+  font: arial;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.search-bar {
+  width: 200px;
+  height: 30px;
+  margin-left: 24px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(150, 149, 149);
+  font-size: 16px;
+  padding-left: 10px;
+  
 }
 
-
-.detail {
-  border: none;
-  background-color: white;
-  cursor: pointer;
-  margin: 8px;
-}
 
